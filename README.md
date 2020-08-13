@@ -1,4 +1,4 @@
-# structure-Tree
+# Structure-tree
 This repository contain project for building and drawing red-black tree.
 - MainForm.Designer.cs  :: Графический интерфейс пользователя
 - MainForm.cs :: Обработчики событий интерфейса пользователя
